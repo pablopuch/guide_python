@@ -1,6 +1,11 @@
+<p align="center">
+    <a href="https://www.python.org/">
+        <img src="resources\Python.png" alt="python">
+    </a>
+</p>
+
 # Guide Python
 This is my Python guide
-
 
 
 ## Resources
