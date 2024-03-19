@@ -1,12 +1,12 @@
 # Hola Mundo
-print('hola pablo')
+print('hola Pablo')
 
-print("Hola pablo puch")
+print("Hola Pablo puch")
 
 '''
 Esto es otro
 comentario mas 
-pra mi guia
+para mi guia
 '''
 
 """
@@ -22,7 +22,9 @@ largas
 Type es una operacion del sistema que nos dice nos imprime de que tipo de dato
 '''
 print(type('Aprende python')) # tipo 'str'
-print(type(5)) # tipo int
-print(type(1.5)) # tipo float
-print(type(True)) # tipo bool
-print(type(1 + 1j)) # tipo complex
+print(type(5)) # tipo 'int'
+print(type(1.5)) # tipo 'float'
+print(type(True)) # tipo 'bool'
+print(type(1 + 1j)) # tipo 'complex'
+
+print(type(print('Rompiendo Python'))) # tipo 'NoneType'
