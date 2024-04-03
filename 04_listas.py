@@ -85,7 +85,7 @@ print(my_new_list)
 print(my_new_list[1:3])
 
 
-#convirtiendo de una lista a una str
+# convirtiendo de una lista a una str
 my_list = 'Hola Python'
 print(my_list)
 print(type(my_list))
