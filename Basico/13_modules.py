@@ -1,6 +1,6 @@
 ### Modulos ### 
 
-import modulo
+import Basic.modulo as modulo
 # from 10_funciones import sum_value
 
 
@@ -8,7 +8,7 @@ modulo.sum(5, 3, 1)
 modulo.printVAlue('hola pibe')
 
 
-from modulo import sum, printVAlue
+from Basic.modulo import sum, printVAlue
 
 
 
