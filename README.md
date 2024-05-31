@@ -24,4 +24,6 @@ This is my Python guide
 
 Repo de python in 30 day: https://github.com/Asabeneh/30-Days-Of-Python
 
-Repo full tutorial: https://github.com/mouredev/Hello-Python.git
+Repo full-guide: https://github.com/mouredev/Hello-Python.git
+
+Boook guide python free: https://aprendepython.es/
