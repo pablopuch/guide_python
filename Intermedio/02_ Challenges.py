@@ -12,40 +12,40 @@ cada impresión), sustituyendo los siguientes:
 
 """
 
-# def fizz_buzz():
+def fizz_buzz():
     
     
-#     # cont = 1
-#     # while cont < 101:
-#     #     if(cont % 3 == 0 and cont % 5 == 0):
-#     #         print("fizzbuzz")
-#     #         cont +=1
-#     #     elif(cont % 3 == 0):
-#     #         print("fizz")
-#     #         cont +=1
-#     #     elif(cont % 5 == 0):
-#     #         print("buzz")
-#     #         cont +=1
-#     #     else:
-#     #         print(cont)
-#     #         cont +=1
+    # cont = 1
+    # while cont < 101:
+    #     if(cont % 3 == 0 and cont % 5 == 0):
+    #         print("fizzbuzz")
+    #         cont +=1
+    #     elif(cont % 3 == 0):
+    #         print("fizz")
+    #         cont +=1
+    #     elif(cont % 5 == 0):
+    #         print("buzz")
+    #         cont +=1
+    #     else:
+    #         print(cont)
+    #         cont +=1
 
 
-#     for i in range(1, 101):
-#         if(i % 3 == 0 and i % 5 == 0):
-#             print("fizzbuzz")
+    for i in range(1, 101):
+        if(i % 3 == 0 and i % 5 == 0):
+            print("fizzbuzz")
             
-#         elif(i % 3 == 0):
-#             print("fizz")
+        elif(i % 3 == 0):
+            print("fizz")
             
-#         elif(i % 5 == 0):
-#             print("buzz")
+        elif(i % 5 == 0):
+            print("buzz")
             
-#         else:
-#             print(i)
+        else:
+            print(i)
     
     
-# fizz_buzz()
+fizz_buzz()
 
 
 """
